@@ -1,16 +1,11 @@
-# simple_pokemon_tutorial
+# Simple Pokemon Tutorial
 
-A new Flutter project.
+Simple Pokemon Tutorial
 
-## Getting Started
+![2](https://github.com/BilalSevinc16/Simple_Pokemon_Tutorial/assets/146417248/a06ed8b8-46ce-4aa6-8ee6-928d0cf344fc)
 
-This project is a starting point for a Flutter application.
+![3](https://github.com/BilalSevinc16/Simple_Pokemon_Tutorial/assets/146417248/50145500-4286-4624-92ee-1ec2da0af5b8)
 
-A few resources to get you started if this is your first Flutter project:
+![5](https://github.com/BilalSevinc16/Simple_Pokemon_Tutorial/assets/146417248/4dd8e3e2-55b7-4034-8aa1-b1bf4b19885c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Pokemon_Tutorial/assets/146417248/761310e3-bcc4-47e2-898f-a2bc2dad03d3)
